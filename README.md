@@ -20,6 +20,12 @@ Actualmente, estoy perfeccionando mi inglés técnico para seguir subiendo de ni
 
 ### 📊 Actividad y Estadísticas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunogiraudo03&show_icons=true&theme=dark&locale=es&hide_border=true&bg_color=0d1117)](https://github.com/brunogiraudo03)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=dark&locale=es&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/brunogiraudo03">
+    <img src="https://github-readme-stats.vercel.app/api?username=brunogiraudo03&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Bruno" />
+  </a>
+  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
