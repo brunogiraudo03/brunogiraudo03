@@ -60,10 +60,10 @@ Soy estudiante de 3er año de **Ingeniería en Sistemas** en la UTN (Promedio: 7
 
   <br><br>
 
-  <a href="https://github.com/brunogiraudo03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogiraudo03&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Bruno"/>
-  </a>
-
+  <div align="center">
+    <img src="github-metrics.svg" alt="Métricas y Lenguajes de Bruno" />
+  </div>
+  
   <br><br>
 
   <a href="https://github.com/brunogiraudo03">
