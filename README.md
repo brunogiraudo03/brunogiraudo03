@@ -50,10 +50,6 @@ Soy estudiante de 3er año de **Ingeniería en Sistemas** en la UTN (Promedio: 7
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
----
-
 ### 📊 Mis Estadísticas y Actividad
 
 <div align="center">
