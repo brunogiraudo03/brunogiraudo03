@@ -52,4 +52,26 @@ Soy estudiante de 3er año de **Ingeniería en Sistemas** en la UTN (Promedio: 7
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
+
+### 📊 Mis Estadísticas y Actividad
+
+<div align="center">
+
+  <a href="https://github.com/brunogiraudo03">
+    <img src="https://github-profile-trophy.vercel.app/?username=brunogiraudo03&theme=tokyonight&no-frame=true&margin-w=15" alt="Trofeos de Bruno" />
+  </a>
+
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/brunogiraudo03">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunogiraudo03&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" />
+  </a>
+
+</div>
