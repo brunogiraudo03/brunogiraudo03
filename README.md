@@ -47,3 +47,11 @@ Soy estudiante de 3er año de **Ingeniería en Sistemas** (Promedio: 7.88 | 17 m
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+[![Estadísticas de Bruno](https://github-readme-stats.vercel.app/api?username=brunogiraudo03&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/brunogiraudo03)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
