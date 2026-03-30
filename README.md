@@ -58,12 +58,6 @@ Soy estudiante de 3er año de **Ingeniería en Sistemas** en la UTN (Promedio: 7
 
 <div align="center">
 
-  <a href="https://github.com/brunogiraudo03">
-    <img src="https://github-profile-trophy.vercel.app/?username=brunogiraudo03&theme=tokyonight&no-frame=true&margin-w=15" alt="Trofeos de Bruno" />
-  </a>
-
-  <br><br>
-
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
