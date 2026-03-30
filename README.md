@@ -1,34 +1,25 @@
 # Hola, soy Bruno 👋
 
-Soy estudiante de 3er año de **Ingeniería en Sistemas** (Promedio: 7.88 | 17 materias aprobadas) y un desarrollador enfocado en crear soluciones digitales que aporten valor real. 
+Soy **Junior Full Stack Developer** y estudiante de 3er año de Ingeniería en Sistemas (Promedio: 7.88 | 17 materias aprobadas). Me enfoco en escribir código que resuelva problemas reales, saliendo de la teoría para llevar las ideas a producción. 
 
-Me apasiona construir herramientas para pequeñas empresas. Actualmente desarrollo y mantengo sistemas web utilizables en producción, como software de gestión para ferreterías, brindando soluciones tecnológicas a negocios locales. 
+No me quedo solo en proyectos de prueba: actualmente desarrollo y mantengo sistemas web que ya están operativos en el mercado (como un software de gestión integral para ferreterías), ayudando a pymes a digitalizar sus procesos y bases de datos.
 
-🌱 **Resumen rápido:**
-* 💻 Construyo aplicaciones Full Stack y páginas web operativas.
-* ☁️ Fuerte experiencia integrando **Firebase** y gestionando bases de datos.
-* 📈 Estudiando activamente inglés técnico para seguir creciendo.
+🤖 **Desarrollo potenciado por IA:**
+Mi flujo de trabajo no es el tradicional. Integro el uso avanzado de Inteligencia Artificial para programar. Manejo múltiples IAs simultáneamente y estoy certificado en el **Curso de Desarrollo con IA 2026 de Big School**. Sé cómo usar estas herramientas para diseñar arquitecturas más limpias, resolver bugs complejos y acelerar el desarrollo.
 
----
+Actualmente, estoy perfeccionando mi inglés técnico para seguir subiendo de nivel.
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
 * **Backend:** Java, Python, C#, JavaScript
 * **Frontend:** React, Angular, HTML5, CSS3
-* **Bases de Datos:** SQLserver, postgreSQL, NoSQL y Firebase.
+* **Bases de Datos:** SQL Server, PostgreSQL, NoSQL, Firebase
+* **Workflow & Herramientas:** Git, GitHub, Prompt Engineering avanzado.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Actividad y Estadísticas
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=brunogiraudo03&show_icons=true&theme=dark&locale=es&hide_border=true" alt="Estadísticas de Bruno" />
-  
-  <br><br>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunogiraudo03&show_icons=true&theme=dark&locale=es&hide_border=true&bg_color=0d1117)](https://github.com/brunogiraudo03)
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=dark&locale=es&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunogiraudo03&theme=dark&locale=es&hide_border=true&background=0d1117)](https://git.io/streak-stats)
