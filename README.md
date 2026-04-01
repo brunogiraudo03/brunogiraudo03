@@ -1,5 +1,17 @@
+<div align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-000000?style=for-the-badge" alt="Español"></a>
+  <a href="README-en.md"><img src="https://img.shields.io/badge/🇬🇧_English-000000?style=for-the-badge" alt="English"></a>
+</div>
+
 <h1 align="center">Hola, soy Bruno 👋</h1>
-<h3 align="center">Junior Full Stack Developer | Córdoba Capital, Argentina 📍</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Estudiante+de+Ingeniería+en+Sistemas;Construyendo+soluciones+web+reales" alt="Typing SVG" />
+  </a>
+</div>
+
+<h4 align="center">Córdoba Capital, Argentina 📍</h4>
 
 <div align="center">
   <a href="https://presentaci-n-amber.vercel.app"><img src="https://img.shields.io/badge/🌐_Mi_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -14,9 +26,9 @@
 
 Soy estudiante de 3er año de **Ingeniería en Sistemas** en la UTN (Promedio: 7.88 | 17 materias aprobadas). Me apasiona salir de la teoría y escribir código que resuelva problemas del mundo real. 
 
-* 🏢 **Experiencia real:** Desarrollo y mantengo sistemas web que ya están operativos en el mercado, como un software de gestión integral para ferreterías, ayudando a pymes a digitalizar sus procesos.
+* 🏢 **Experiencia real:** Desarrollo y mantengo "Antigravity", un sistema web integral de gestión y facturación para ferreterías. Está construido con React y Firebase, enfocado en optimizar el rendimiento y garantizar un despliegue ágil y escalable para pymes.
 * 🤖 **Desarrollo potenciado por IA:** Mi flujo de trabajo integra herramientas avanzadas. Manejo múltiples IAs simultáneamente y estoy certificado en el **Curso de Desarrollo con IA 2026 de Big School**. Utilizo *Prompt Engineering* para diseñar arquitecturas limpias y acelerar el desarrollo.
-* 📈 **Mejora continua:** Actualmente estoy perfeccionando mi inglés técnico.
+* 📈 **Mejora continua:** Actualmente estoy perfeccionando mi inglés técnico para apuntar a mercados globales.
 
 ---
 
