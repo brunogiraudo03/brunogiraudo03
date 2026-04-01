@@ -101,4 +101,8 @@ Soy estudiante de 3er año de **Ingeniería en Sistemas** en la UTN (Promedio: 7
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunogiraudo03&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" />
   </a>
 
+  ![brunogiraudo03](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 </div>
+
+
